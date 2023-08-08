@@ -1,1 +1,1 @@
-# HoverGlow-buttonEffect
+# HoverGlow-ButtonEffect
